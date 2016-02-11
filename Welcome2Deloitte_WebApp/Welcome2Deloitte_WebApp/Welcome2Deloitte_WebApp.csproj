@@ -944,6 +944,7 @@
     <Compile Include="AdminDefault.aspx.designer.cs">
       <DependentUpon>AdminDefault.aspx</DependentUpon>
     </Compile>
+    <Compile Include="AdminDesignReport.cs" />
     <Compile Include="AdminReports.aspx.cs">
       <DependentUpon>AdminReports.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
