@@ -1,4 +1,4 @@
-﻿<%@ Page Title="" Language="C#" MasterPageFile="~/Admin.Master" AutoEventWireup="true" CodeBehind="AdminDashboard.aspx.cs" Inherits="Welcome2Deloitte.AdminDashboard" %>
+﻿    ;14<%@ Page Title="" Language="C#" MasterPageFile="~/Admin.Master" AutoEventWireup="true" CodeBehind="AdminDashboard.aspx.cs" Inherits="Welcome2Deloitte.AdminDashboard" %>
 <asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder1" runat="server">
  <script>    
      $(Enrolled_blr2).load({
@@ -12,8 +12,8 @@
       <h1>
         Location Based Cards
         <small>Preview</small>
-      </h1>
-      
+      </h1> 
+       
     </section>
 
     <!-- Main content -->
