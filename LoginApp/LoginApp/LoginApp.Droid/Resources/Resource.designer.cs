@@ -63,26 +63,35 @@ namespace LoginApp.Droid
 		public partial class Id
 		{
 			
-			// aapt resource value: 0x7f060004
-			public const int buttonSubmit = 2131099652;
+			// aapt resource value: 0x7f060002
+			public const int btnSingIn = 2131099650;
 			
-			// aapt resource value: 0x7f060003
-			public const int editPassword = 2131099651;
+			// aapt resource value: 0x7f060007
+			public const int buttonSubmit = 2131099655;
 			
 			// aapt resource value: 0x7f060006
-			public const int editResult = 2131099654;
+			public const int editPassword = 2131099654;
+			
+			// aapt resource value: 0x7f060009
+			public const int editResult = 2131099657;
+			
+			// aapt resource value: 0x7f060004
+			public const int editUserName = 2131099652;
 			
 			// aapt resource value: 0x7f060001
-			public const int editUserName = 2131099649;
-			
-			// aapt resource value: 0x7f060002
-			public const int textPassword = 2131099650;
-			
-			// aapt resource value: 0x7f060005
-			public const int textResult = 2131099653;
+			public const int etPass = 2131099649;
 			
 			// aapt resource value: 0x7f060000
-			public const int textUser = 2131099648;
+			public const int etUserName = 2131099648;
+			
+			// aapt resource value: 0x7f060005
+			public const int textPassword = 2131099653;
+			
+			// aapt resource value: 0x7f060008
+			public const int textResult = 2131099656;
+			
+			// aapt resource value: 0x7f060003
+			public const int textUser = 2131099651;
 			
 			static Id()
 			{
@@ -98,7 +107,10 @@ namespace LoginApp.Droid
 		{
 			
 			// aapt resource value: 0x7f030000
-			public const int Main = 2130903040;
+			public const int Login = 2130903040;
+			
+			// aapt resource value: 0x7f030001
+			public const int Main = 2130903041;
 			
 			static Layout()
 			{
@@ -132,8 +144,17 @@ namespace LoginApp.Droid
 		public partial class Style
 		{
 			
+			// aapt resource value: 0x7f050001
+			public const int AppBaseTheme = 2131034113;
+			
+			// aapt resource value: 0x7f050002
+			public const int AppTheme = 2131034114;
+			
 			// aapt resource value: 0x7f050000
-			public const int Mono_Android_Theme_Splash = 2131034112;
+			public const int DefaultButtonText = 2131034112;
+			
+			// aapt resource value: 0x7f050003
+			public const int Mono_Android_Theme_Splash = 2131034115;
 			
 			static Style()
 			{
